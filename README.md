@@ -1,3 +1,3 @@
 # fullstack-demo
 
-Spring Boot + Angular + MySQL
+Spring Boot Backend Part
